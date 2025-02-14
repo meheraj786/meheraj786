@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
 <h3 align="center">A Passionate Frontend Developer from Bangladesh, Diving Deep into the Sea of Code</h3>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - 🌱 I’m currently learning **MERN stack development**
 
