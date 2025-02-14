@@ -7,6 +7,7 @@
 - 💬 Ask me about **html, css, js, react, bootstrap, tailwind, firebase, appwrite, node js, express, mongoose, mongodb**
 
 - 📫 How to reach me **meherajhosen786@gmail.com**
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraj786&label=Profile%20views&color=0e75b6&style=flat" alt="meheraj786" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
