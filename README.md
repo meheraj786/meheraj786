@@ -50,7 +50,7 @@
     <img
       src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
       alt="git"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
@@ -82,7 +82,7 @@
     <img
       src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg"
       alt="nextjs"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
@@ -98,7 +98,7 @@
     <img
       src="https://camo.githubusercontent.com/2c3d7a2cd04e1cebb67465856a2a3ea21d79ae8d5b9707590b5d7277ecbdcb6d/68747470733a2f2f692e6962622e636f2f5a56715a62477a2f657870726573736a732e676966"
       alt="express"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
@@ -106,7 +106,7 @@
     <img
       src="https://camo.githubusercontent.com/79ff037d37d1df442c9d1aee0afcbb99d23e4f1cc6dadaa8b9f744f6f28e9b98/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313135302f302a4754547345632d6273576f71634f6f4d2e676966"
       alt="mongodb"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
