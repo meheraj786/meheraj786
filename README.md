@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
-<h3 align="center">A passionate <b>MERN stack Dev</b> and tech enthusiast from the Milky Way Galaxy, within the Orion Arm, orbiting the Sol (Sun) star, living on the third orbital planet named Earth, in the continent of Asia, in the country of Bangladesh, in the city of Dhaka — <i>a negligible being in the grand scheme of the cosmos.</i> </h3>
+<h3 align="center">A passionate <strong>MERN stack Dev</strong> and tech enthusiast from the Milky Way Galaxy, within the Orion Arm, orbiting the Sol (Sun) star, living on the third orbital planet named Earth, in the continent of Asia, in the country of Bangladesh, in the city of Dhaka — <i>a negligible being in the grand scheme of the cosmos.</i> </h3>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - 🌱 I’m currently learning **MERN stack development**
