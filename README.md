@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 💬 Ask me about **html, css, js, react, bootstrap, tailwind, firebase, appwrite, node js, express, mongoose, mongodb**
+- 💬 Ask me about **figma, html, css, js, react, bootstrap, tailwind, astro,  firebase, appwrite, node js, express, mongoose, mongodb**
 
 - 📫 How to reach me **meherajhosen786@gmail.com**
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraj786&label=Profile%20views&color=0e75b6&style=flat" alt="meheraj786" /> </p>
