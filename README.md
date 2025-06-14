@@ -219,9 +219,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en" alt="meheraj786" /></p>
 
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&" alt="meheraj786" /></p>
+<br/>
+<hr/>
+<br/>
 <h2>🏅 Problem Solving</h2>
-<p align="center">
+<p align="left">
 <a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/meherajhosen786?theme=wtf&font=JetBrains%20Mono" 
        alt="LeetCode Stats" height="250px">
