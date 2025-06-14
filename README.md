@@ -299,7 +299,6 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
         src="https://leetcard.jacoblin.cool/meherajhosen786?theme=wtf&font=JetBrains%20Mono"
         alt="LeetCode Stats"
         width="550px"
-        height="200px"
       />
     </a>
   </p>
