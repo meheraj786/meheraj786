@@ -265,7 +265,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
   width="200"
 />
 <div style="display: flex; flex-direction: column">
-  <h2 align="left">✒Language</h2>
+  
   <p>
     <img
       align="left"
@@ -273,7 +273,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       alt="meheraj786"
     />
   </p>
-  <h2 align="left">📈Stats</h2>
+ 
   <p>
     &nbsp;<img
       align="left"
@@ -281,7 +281,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       alt="meheraj786"
     />
   </p>
-  <h2 align="left">🔥Streak</h2>
+ 
   <p>
     <img
       align="left"
@@ -289,7 +289,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       alt="meheraj786"
     />
   </p>
-  <h2 align="left">🏅 Problem Solving</h2>
+  
   <p align="left">
     <a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
       <img
