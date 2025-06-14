@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
 <h3 align="center">A Passionate <strong>MERN stack Dev</strong> and Tech Enthusiast from the Milky Way Galaxy, within the Orion Arm, orbiting the Sol (Sun) star, living on the third orbital planet named Earth(A Blue Planet), in the continent of Asia, in the country of Bangladesh, in the city of Dhaka — <i>a negligible being in the grand scheme of the cosmos.</i> </h3>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=29F70C&width=435&lines=As-salamu+alaikum+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=9b59b6&width=435&lines=As-salamu+alaikum+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" /></a></h1>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - 🌱 I’m currently learning **MERN stack development**
