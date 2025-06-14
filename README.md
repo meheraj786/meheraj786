@@ -271,6 +271,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraj786&show_icons=true&locale=en&layout=compact"
       alt="meheraj786"
+      width="400px"
     />
   </p>
  
@@ -279,6 +280,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       align="left"
       src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en"
       alt="meheraj786"
+            width="450px"
     />
   </p>
  
@@ -287,6 +289,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       align="left"
       src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&"
       alt="meheraj786"
+      width="500px"
     />
   </p>
   
@@ -295,7 +298,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       <img
         src="https://leetcard.jacoblin.cool/meherajhosen786?theme=wtf&font=JetBrains%20Mono"
         alt="LeetCode Stats"
-        width="500px"
+        width="550px"
         height="200px"
       />
     </a>
