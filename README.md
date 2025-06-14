@@ -276,7 +276,7 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
   <h2 align="left">📈Stats</h2>
   <p>
     &nbsp;<img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en"
       alt="meheraj786"
     />
