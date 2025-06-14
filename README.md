@@ -213,15 +213,21 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraj786&show_icons=true&locale=en&layout=compact" alt="meheraj786" /></p>
- <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY5OTE3NGM3Y3F3NW10dWh4M3ZpajNvd2VoNDUyd284NmF0aXJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coder GIF" width="200">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en" alt="meheraj786" /></p>
-
 <div>
-
+<h2  align="left">✒Language</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraj786&show_icons=true&locale=en&layout=compact" alt="meheraj786" /></p>
+  </div>
+ <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY5OTE3NGM3Y3F3NW10dWh4M3ZpajNvd2VoNDUyd284NmF0aXJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coder GIF" width="200">
+<div>
+<h2  align="left">📈Stats</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en" alt="meheraj786" /></p>
+</div>
+<div>
+<h2  align="left">🔥Streak</h2>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&" alt="meheraj786" /></p>
+</div>
+<div>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meheraj786&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=2b2b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <hr>
 <div align="left">
