@@ -281,10 +281,6 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       alt="meheraj786"
     />
   </p>
-  <div/>
-    <br />
-    <br />
-    <div>
   <h2 align="left">🔥Streak</h2>
   <p>
     <img
@@ -293,9 +289,6 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       alt="meheraj786"
     />
   </p>
-</div>
-<br />
-<div align="left">
   <h2 align="left">🏅 Problem Solving</h2>
   <p align="left">
     <a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
