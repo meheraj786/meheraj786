@@ -219,11 +219,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en" alt="meheraj786" /></p>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&" alt="meheraj786" /></p>
-
 <div>
-  <h2>🏅 Problem Solving</h2>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&" alt="meheraj786" /></p>
+</div>
+<hr>
+<div align="left">
+  <h2  align="left">🏅 Problem Solving</h2>
 <p align="left">
 <a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/meherajhosen786?theme=wtf&font=JetBrains%20Mono" 
