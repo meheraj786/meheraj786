@@ -1,20 +1,66 @@
 <h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
-<h3 align="center">A Passionate <strong>MERN stack Dev</strong> and Tech Enthusiast from the Milky Way Galaxy, within the Orion Arm, orbiting the Sol (Sun) star, living on the third orbital planet named Earth(A Blue Planet), in the continent of Asia, in the country of Bangladesh, in the city of Dhaka — <i>a negligible being in the grand scheme of the cosmos.</i> </h3>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=29ffb8&width=435&lines=As-salamu+alaikum+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" /></a></h1>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+<h3 align="center">
+  A Passionate <strong>MERN stack Dev</strong> and Tech Enthusiast from the
+  Milky Way Galaxy, within the Orion Arm, orbiting the Sol (Sun) star, living on
+  the third orbital planet named Earth(A Blue Planet), in the continent of Asia,
+  in the country of Bangladesh, in the city of Dhaka —
+  <i>a negligible being in the grand scheme of the cosmos.</i>
+</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=29ffb8&width=435&lines=As-salamu+alaikum+%F0%9F%91%8B;Welcome+to+my+Profile"
+      alt="Typing SVG"
+  /></a>
+</h1>
+<img
+  align="right"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  alt="Coder GIF"
+  width="400"
+/>
 
-- 🌱 I’m currently learning **MERN stack development**
-
-- 💬 Ask me about **figma, html, css, js, react, bootstrap, tailwind, astro,  firebase, appwrite, node js, express, mongoose, mongodb**
-
-- 📫 How to reach me **meherajhosen786@gmail.com**
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraj786&label=Profile%20views&color=0e75b6&style=flat" alt="meheraj786" /> </p>
+- 🌱 I’m currently learning **MERN stack development** - 💬 Ask me about
+**figma, html, css, js, react, bootstrap, tailwind, astro, firebase, appwrite,
+node js, express, mongoose, mongodb** - 📫 How to reach me
+**meherajhosen786@gmail.com**
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=meheraj786&label=Profile%20views&color=0e75b6&style=flat"
+    alt="meheraj786"
+  />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehraj-h/" target="blank"><img align="center" src="https://media.tenor.com/KOki-OrS24AAAAAC/linkedin.gif" alt="https://www.linkedin.com/in/mehraj-h/" height="40" width="60" /></a>
-<a href="https://fb.com/https://www.facebook.com/mehrajh786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mehrajh786/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/meherajhosen786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/meherajhosen786/" height="30" width="40" /></a>
+  <a
+    href="https://linkedin.com/in/https://www.linkedin.com/in/mehraj-h/"
+    target="blank"
+    ><img
+      align="center"
+      src="https://media.tenor.com/KOki-OrS24AAAAAC/linkedin.gif"
+      alt="https://www.linkedin.com/in/mehraj-h/"
+      height="40"
+      width="60"
+  /></a>
+  <a href="https://fb.com/https://www.facebook.com/mehrajh786/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="https://www.facebook.com/mehrajh786/"
+      height="30"
+      width="40"
+  /></a>
+  <a
+    href="https://www.leetcode.com/https://leetcode.com/u/meherajhosen786/"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="https://leetcode.com/u/meherajhosen786/"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -212,31 +258,59 @@
     />
   </a>
 </p>
-
-<div>
-<h2  align="left">✒Language</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraj786&show_icons=true&locale=en&layout=compact" alt="meheraj786" /></p>
-  </div>
- <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY5OTE3NGM3Y3F3NW10dWh4M3ZpajNvd2VoNDUyd284NmF0aXJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coder GIF" width="200">
-<div>
-<h2  align="left">📈Stats</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en" alt="meheraj786" /></p>
+<img
+  align="right"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY5OTE3NGM3Y3F3NW10dWh4M3ZpajNvd2VoNDUyd284NmF0aXJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
+  alt="Coder GIF"
+  width="200"
+/>
+<div style="display: flex; flex-direction: column">
+  <h2 align="left">✒Language</h2>
+  <p>
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraj786&show_icons=true&locale=en&layout=compact"
+      alt="meheraj786"
+    />
+  </p>
+  <h2 align="left">📈Stats</h2>
+  <p>
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&locale=en"
+      alt="meheraj786"
+    />
+  </p>
 </div>
 <div>
-<h2  align="left">🔥Streak</h2>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&" alt="meheraj786" /></p>
+  <h2 align="left">🔥Streak</h2>
+  <p>
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&"
+      alt="meheraj786"
+    />
+  </p>
 </div>
-<div>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meheraj786&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=2b2b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-<hr>
+<br />
 <div align="left">
-  <h2  align="left">🏅 Problem Solving</h2>
-<p align="left">
-<a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/meherajhosen786?theme=wtf&font=JetBrains%20Mono" 
-       alt="LeetCode Stats" height="250px">
-</a> 
+  <h2 align="left">🏅 Problem Solving</h2>
+  <p align="left">
+    <a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
+      <img
+        src="https://leetcard.jacoblin.cool/meherajhosen786?theme=wtf&font=JetBrains%20Mono"
+        alt="LeetCode Stats"
+        width="500px"
+        height="200px"
+      />
+    </a>
+  </p>
 </div>
 
-
+<hr />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=meheraj786&bg_color=212121&color=495fd0&line=b9d5f8&point=002aff&area=true&hide_border=true"
+  width="100%"
+  height="400px"
+  alt=""
+/>
