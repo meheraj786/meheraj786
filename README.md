@@ -281,12 +281,10 @@ node js, express, mongoose, mongodb** - 📫 How to reach me
       alt="meheraj786"
     />
   </p>
-</div>
-<div>
   <h2 align="left">🔥Streak</h2>
   <p>
     <img
-      align="center"
+      align="left"
       src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&"
       alt="meheraj786"
     />
