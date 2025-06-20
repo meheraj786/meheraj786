@@ -12,6 +12,7 @@
       src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=29ffb8&width=435&lines=As-salamu+alaikum+%F0%9F%91%8B;Welcome+to+my+Profile"
       alt="Typing SVG"
   /></a>
+  
 </h1>
 <img
   align="right"
