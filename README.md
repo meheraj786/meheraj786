@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
+<p align="center">
+  <strong>Full Stack Software Engineer</strong> | MERN & PERN Stack Specialist<br>
+  Building scalable web applications • Passionate about System Design & High-Level Design (HLD)
+</p>
 <h3 align="center">
   A Passionate <strong>MERN stack Dev</strong> and Tech Enthusiast from the
   Milky Way Galaxy, within the Orion Arm, orbiting the Sol (Sun) star, living on
