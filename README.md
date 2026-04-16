@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
-<p align="center">
-  <strong>Full Stack Software Engineer</strong> | MERN & PERN Stack Specialist<br>
-  Building scalable web applications • Passionate about System Design & High-Level Design (HLD)
-</p>
----
-
-### 🚀 About Me
-- **Full Stack Software Engineer** with expertise in **MERN** (MongoDB, Express, React, Node.js) and **PERN** (PostgreSQL, Express, React, Node.js) stack.
-- Specialized in designing and developing end-to-end scalable applications.
-- Strong focus on **System Design**, **High-Level Design (HLD)**, clean architecture, and performance optimization.
-- Love turning complex problems into simple, maintainable, and production-ready solutions.
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"
     ><img
@@ -19,6 +6,18 @@
   /></a>
   
 </h1>
+<h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
+<p align="center">
+  <strong>Full Stack Software Engineer</strong> | MERN & PERN Stack Specialist<br>
+  Building scalable web applications • Passionate about System Design & High-Level Design (HLD)
+</p>
+
+### 🚀 About Me
+- **Full Stack Software Engineer** with expertise in **MERN** (MongoDB, Express, React, Node.js) and **PERN** (PostgreSQL, Express, React, Node.js) stack.
+- Specialized in designing and developing end-to-end scalable applications.
+- Strong focus on **System Design**, **High-Level Design (HLD)**, clean architecture, and performance optimization.
+- Love turning complex problems into simple, maintainable, and production-ready solutions.
+
 <img
   align="right"
   src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
