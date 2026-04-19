@@ -8,8 +8,7 @@
 </h1>
 <h1 align="center">Hi 👋, I'm Meheraj Hosen</h1>
 <p align="center">
-  <strong>Full Stack Software Engineer</strong> | MERN & PERN Stack Specialist<br>
-  Building scalable web applications • Passionate about System Design & High-Level Design (HLD)
+  Passionate <strong>Software Engineer</strong> with expertise in <strong>MERN</strong> and <strong>PERN</strong> stack. I enjoy <strong>System Design</strong>, <strong>High-Level Design (HLD)</strong>, and building scalable, distributed systems — turning complex problems into clean, maintainable, and production-ready solutions using the modern JavaScript ecosystem and strong architectural practices.
 </p>
 
 ### 🚀 About Me
