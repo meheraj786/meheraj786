@@ -1,100 +1,167 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Meheraj+Hosen;Full+Stack+Software+Engineer;MERN+%7C+PERN+Developer;System+Design+%26+HLD+Enthusiast;Building+Scalable+Applications+%F0%9F%9A%80" />
-</h1>
+<div align="center">
 
-<h2 align="center">🚀 Full Stack Software Engineer</h2>
+# 👋 Hey, I'm Meheraj Hosen
 
-<p align="center">
-Passionate about building scalable, maintainable, and production-ready web applications using modern JavaScript technologies.
-<br/>
-I enjoy solving real-world problems through clean architecture, System Design, and High-Level Design (HLD).
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;MERN+%7C+PERN+Developer;System+Design+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
+
+<p>
+Building modern, scalable, and production-ready software with a passion for
+<strong>System Design</strong>, <strong>High-Level Architecture</strong>, and
+clean engineering practices.
 </p>
 
-<p align="center">
+<p>
 
-<img src="https://komarev.com/ghpvc/?username=meheraj786&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+<a href="mailto:meherajhosen786@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mehraj-h/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/meherajhosen786/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=meheraj786&style=for-the-badge&color=8B5CF6"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-- 💻 Full Stack Software Engineer
-- ⚡ Specialized in **MERN** & **PERN**
-- 🏗 Passionate about **System Design** & **High-Level Design**
-- 🚀 Building scalable and production-ready applications
-- 📦 REST APIs • Authentication • Database Design
-- 🧠 Clean Architecture • Performance Optimization
-- 🌱 Currently learning **Distributed Systems**, **Docker**, **Redis**, and **Cloud**
+<img align="right" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-📫 **Email**
+```ts
+const me = {
+    name: "Meheraj Hosen",
 
-```text
-meherajhosen786@gmail.com
+    role: "Full Stack Software Engineer",
+
+    location: "Bangladesh",
+
+    specialization: [
+        "MERN",
+        "PERN",
+        "TypeScript",
+        "Next.js",
+        "Node.js"
+    ],
+
+    interests: [
+        "System Design",
+        "High Level Design",
+        "Backend Engineering",
+        "Distributed Systems"
+    ],
+
+    currentlyLearning: [
+        "Docker",
+        "Redis",
+        "CI/CD",
+        "Cloud"
+    ],
+
+    philosophy:
+        "Build scalable software that people love to use."
+}
 ```
+
+---
+
+## ⚡ Highlights
+
+- 🚀 Full Stack Software Engineer
+
+- 🏗 Passionate about scalable architecture
+
+- 💻 MERN & PERN Stack
+
+- ⚙ REST API Development
+
+- 🔥 TypeScript Enthusiast
+
+- 📦 Clean Architecture
+
+- 📈 Performance Optimization
+
+- 🌱 Constant Learner
+
+---
+
+# 🧰 Tech Arsenal
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,firebase"/>
+
+</p>
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,redis,git,github,linux,postman,vercel,netlify,figma"/>
+
+</p>
 
 ---
 
 # 🎯 Current Focus
 
-- Building scalable SaaS products
-- Advanced System Design
-- PostgreSQL + Prisma
-- Docker & DevOps
-- Open Source Contributions
+```text
+███████████████████████░░░░░░░ 80%
 
----
+🚀 Building SaaS Applications
 
-# 🛠 Tech Stack
+🧠 Advanced System Design
 
-## Frontend
+🐳 Docker & DevOps
 
-<p>
+⚡ Backend Performance
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" />
+☁️ Cloud Deployment
 
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,prisma" />
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,figma,vercel,netlify" />
-
-</p>
+🌍 Open Source
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mehraj-h/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
 
 <a href="mailto:meherajhosen786@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/meherajhosen786/" target="_blank">
+<a href="https://www.linkedin.com/in/mehraj-h/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/meherajhosen786/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
 </a>
 
@@ -102,52 +169,16 @@ meherajhosen786@gmail.com
 
 ---
 
-# 📊 GitHub Statistics
+# 💡 Developer Philosophy
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meheraj786&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=meheraj786&theme=tokyonight&hide_border=true"/>
-
-</p>
+> **"Good software isn't just code that works—it's code that's easy to understand, scale, and maintain."**
 
 ---
 
-# 💻 LeetCode
+<div align="center">
 
-<p align="center">
+### Thanks for stopping by 👋
 
-<img src="https://leetcard.jacoblin.cool/meherajhosen786?theme=dark&font=JetBrains+Mono"/>
+*"Keep learning. Keep building. Keep improving."*
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meheraj786&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 💭 Developer Philosophy
-
-> **"Clean code is not written by following rules. Clean code is written by developers who care."**
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-</h3>
+</div>
