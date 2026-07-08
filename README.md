@@ -69,7 +69,7 @@ const meheraj = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meheraj786&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=29ffb8&icon_color=29ffb8&count_private=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meheraj786&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=29ffb8" alt="Top Languages"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=meheraj786&theme=react&hide_border=true&background=0d1117&ring=29ffb8&fire=29ffb8&currStreakLabel=29ffb8" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=meheraj786&theme=react&hide_border=true&background=0d1117&ring=29ffb8&fire=29ffb8&currStreakLabel=29ffb8" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meheraj786&bg_color=0d1117&color=29ffb8&line=29ffb8&point=ffffff&area=true&hide_border=true" width="97%" alt="Activity Graph"/>
 
