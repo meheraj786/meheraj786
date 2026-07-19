@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header"/>
 
-<img src="https://github.com/meheraj786.png" width="130" style="border-radius:50%;border:3px solid #7F5AF0;"/>
+<!-- <img src="https://github.com/meheraj786.png" width="130" style="border-radius:50%;border:3px solid #7F5AF0;"/> -->
 
 <h1>Meheraj Hosen</h1>
 
