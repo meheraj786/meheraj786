@@ -1,9 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header"/>
-
 <!-- <img src="https://github.com/meheraj786.png" width="130" style="border-radius:50%;border:3px solid #7F5AF0;"/> -->
-
 <h1>Meheraj Hosen</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=480&lines=Full+Stack+Software+Engineer;MERN+%7C+PERN+%7C+System+Design;Building+Scalable+Web+Applications" />
